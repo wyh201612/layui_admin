@@ -71,59 +71,6 @@ var baseUrl = window.baseUrl='http://192.168.1.138:8001';
 - [x] 常见功能按钮（全屏，锁屏，刷新本页，二维码还有若干隐藏按钮） -- 完成
 
 
-
-
-
-
-
-
-
-## 效果展示
-
-[查看demo请戳这里](http://www.anspray.com/)（请用chrome浏览器预览）
-
-
-## 上图
-
-### 登录
-
-![image](https://github.com/weberandphper/Layui-admin/blob/master/showimg/login.png)
-
-### 账户管理
-
-![image](https://github.com/weberandphper/Layui-admin/blob/master/showimg/account.png)
-
-### 公司列表
-
-![image](https://github.com/weberandphper/Layui-admin/blob/master/showimg/companylist.png)
-
-### 重置密码
-
-![image](https://github.com/weberandphper/Layui-admin/blob/master/showimg/resetpassword.png)
-
-### 屏幕锁
-
-![image](https://github.com/weberandphper/Layui-admin/blob/master/showimg/lock.png)
-
-### 更换皮肤
-
-![image](https://github.com/weberandphper/Layui-admin/blob/master/showimg/changecolor.png)
-
-### 菜单列表
-
-![image](https://github.com/weberandphper/Layui-admin/blob/master/showimg/menulist.png)
-
-### 列表
-
-![image](https://github.com/weberandphper/Layui-admin/blob/master/showimg/robotstore.png)
-
-### 版本提示
-
-![image](https://github.com/weberandphper/Layui-admin/blob/master/showimg/info.png)
-
-
-
-
 ## 运行程序
 
 配置common.js接口地址和Layui模块入口

@@ -2,7 +2,7 @@
 console.log("Power By Anspray");
 
 // 接口域
-var baseUrl = window.baseUrl='http://192.168.1.138:8001';
+var baseUrl = window.baseUrl = 'http://192.168.1.138:8001';
 
 // config的设置是全局的
 layui.config({
